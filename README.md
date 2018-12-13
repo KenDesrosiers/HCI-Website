@@ -1,6 +1,6 @@
 ## Kenneth Desrosiers
 
-I am a Computer Science student at Worcester Polytechnic Institute. During this past term, I studied Human Computer Interaction (HCI) through a variety of different projects.
+I am a sophomore Computer Science student at Worcester Polytechnic Institute. During my time here, I have studied object-oriented design, algorithms, data structures, systems programming, machine organization, and assembly language. During this past term, I studied Human Computer Interaction (HCI) through a variety of different projects, from mobile website prototypes and graphs to facial recognition web apps and VR scenes.
 
 ### My Projects
 
