@@ -47,4 +47,4 @@ Here are some links to my various medium posts where you can learn more about ea
 
 [Design for Another World](https://medium.com/@kennethdesrosiers/design-for-another-world-97e1b76bba25)
 
-[Final Manifesto]()
+[Final Manifesto](https://medium.com/@kennethdesrosiers/design-manifesto-c3eae5a79cc3)
