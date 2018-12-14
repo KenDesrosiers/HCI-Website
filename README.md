@@ -45,6 +45,6 @@ Here are some links to my various medium posts where you can learn more about ea
 
 [Design for Wellbeing](https://medium.com/@kennethdesrosiers/design-for-well-being-1ec1c053edf)
 
-[Design for Another World]()
+[Design for Another World](https://medium.com/@kennethdesrosiers/design-for-another-world-97e1b76bba25)
 
 [Final Manifesto]()
